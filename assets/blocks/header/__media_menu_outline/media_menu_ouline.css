@@ -1,0 +1,14 @@
+@media screen and (max-width: 1456px) {
+    .media_menu_outline {
+        width: 35px;
+        height: 32px;
+        padding: 0;
+        margin: 43px 0 0 290px;
+        background-image: url(../../../images/media_menu_outline.svg);
+    }
+
+}
+
+.media_menu_outline:hover {
+    cursor: pointer;
+}

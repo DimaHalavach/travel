@@ -1,0 +1,13 @@
+.nav_link {
+    transition: 0.3s;
+    text-decoration: none;
+    margin: auto 1px;
+    color: #FFFFFF;
+
+    
+}
+.nav_link:hover {
+    text-decoration: underline;
+    color: blueviolet;
+    
+}

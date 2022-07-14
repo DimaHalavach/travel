@@ -1,0 +1,16 @@
+.media_calendare_logo {
+    justify-content: center;
+    width:  52px;
+    height: 52px;
+    background-image: url(../../../../../../../images/preview_steps_frame_calendar.svg);
+    background-size: 52px 52px;
+}
+
+@media screen and (max-width: 1456px) {
+    .media_calendare_logo {
+        width: 35px;
+        height: 35px;
+        background-size: 35px 35px;
+
+    }
+}

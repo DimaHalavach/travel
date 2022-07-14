@@ -1,0 +1,28 @@
+.text_heading {
+    display: flex;
+    width: 760px;
+    height: 42px;
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    padding: 0;
+    margin: 0 0 24px 0;
+    color: #0D606F;
+}
+
+@media screen and (max-width: 1456px) {
+    .text_heading {
+        width: 100%;
+        height: 13px;
+        margin: 0;
+        font-family: 'Aleo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 11px;
+        line-height: 13px;
+
+    }
+
+}

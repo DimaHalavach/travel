@@ -1,0 +1,18 @@
+.dots_dotright {
+    display: flex;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+    background: rgba(242, 120, 92, 0.5);
+}
+
+@media screen and (max-width: 1456px) {
+    .dots_dotright {
+        width: 8px;
+        height: 8px;
+        background: rgba(242, 120, 92, 0.5);
+    }
+    
+}

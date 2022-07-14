@@ -1,0 +1,14 @@
+.arrow_right {
+    display: none;
+}
+
+@media screen and (max-width: 1456px) {
+    .arrow_right {
+        display: flex;
+        width: 30px;
+        height: 30px;
+        background-image: url(../../../../../../images/media_arrow_right.svg);
+        background-repeat: no-repeat;
+    }
+    
+}

@@ -1,0 +1,11 @@
+.youtube {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    Width:28.04px;
+    Height:22.44px;
+    padding: 0;
+    margin: 0 0 4px 23px;
+    z-index: 20;
+    transform: scale(1.3);
+}

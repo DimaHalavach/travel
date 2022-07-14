@@ -1,0 +1,18 @@
+.steps {
+    display: flex;
+    flex-direction: column;
+    width: 1177px;
+    height: 247px;
+    padding: 0;
+    margin: 79px 132px 0 131px;
+}
+
+@media screen and (max-width: 1456px) {
+    .steps {
+        max-width: 390px;
+        min-width: 320px;
+        height: auto;
+        margin: 0;
+    }
+    
+}

@@ -1,0 +1,39 @@
+.input_search {
+    width: 560px;
+    height: 26px;
+    left: 120px;
+    top: 200px;
+    background: rgba(172, 240, 163, 0);
+    color: #F2785C;
+    font-size: 32px;
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    border: 0;
+    border-radius: 16px;
+    padding: 0;
+    margin: 0;
+    outline: none;
+
+}
+
+@media screen and (max-width: 1456px) {
+    .input_search {
+        width: 226px;
+        height: 14px;
+        left: 0;
+        top: 0;
+        justify-content: flex-start;
+        margin-left: 13.55px;
+
+        /* text */
+        font-family: 'Aleo';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+}

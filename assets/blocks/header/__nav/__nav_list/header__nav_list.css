@@ -1,0 +1,23 @@
+.header__nav_list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-family: 'Red Hat Text', "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    width: 527px;
+    justify-content: space-between;
+    margin: 4px 0 0 -1px;
+    padding: 0;
+    color: #FFFFFF;
+
+}
+
+@media screen and (max-width: 1456px) {
+    .header__nav_list {
+        display: none;
+    }
+    
+}

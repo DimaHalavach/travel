@@ -1,0 +1,18 @@
+.destinations_dots {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    width: 80px;
+    height: 20px;
+    margin: 24px 1219px 0 1221px;
+}
+
+@media screen and (max-width: 1456px) {
+    .destinations_dots {
+        position: absolute;
+        width: 36px;
+        height: 8px;
+        margin: 229px 0 0 0;
+    }
+    
+}

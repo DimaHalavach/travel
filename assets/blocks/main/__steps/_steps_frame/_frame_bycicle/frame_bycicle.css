@@ -1,0 +1,24 @@
+.frame_bycicle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 247px;
+    height: 154px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 1456px) {
+    .frame_bycicle {
+        width: 94px;
+        height: 111px;
+        align-items: flex-start;
+        margin-left: 15px;
+
+    }
+     
+}

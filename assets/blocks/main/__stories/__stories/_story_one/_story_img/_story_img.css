@@ -1,0 +1,15 @@
+.story_img {
+    display: flex;
+    width: 400px;
+    height: 250px;
+    /* left: 120px;
+    top: 2444px; */
+    filter: drop-shadow(0px 4px 4px #0D606F);
+    border-radius: 16px;
+}
+@media screen and (max-width: 1456px) {
+    .story_img {
+        display: none;
+    }
+    
+}

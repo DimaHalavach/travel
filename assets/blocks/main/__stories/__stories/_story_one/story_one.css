@@ -1,0 +1,18 @@
+.story_one {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 1200px;
+    height: 250px;
+    padding: 0;
+    margin-top: 80px;
+}
+
+@media screen and (max-width: 1456px) {
+    .story_one {
+        max-width: 100%;
+        height: auto;
+        margin-top: 0;
+    }
+    
+}

@@ -1,0 +1,15 @@
+.text_box {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin-left: 40px;
+}
+
+@media screen and (max-width: 1456px) {
+    .text_box {
+        margin-left: 180px;
+        margin-top: 25px;
+    }
+
+    
+}

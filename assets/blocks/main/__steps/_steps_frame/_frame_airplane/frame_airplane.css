@@ -1,0 +1,23 @@
+.frame_airplane {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 317px;
+    height: 154px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 1456px) {
+    .frame_airplane {
+        align-items: flex-end;
+        width: 98px;
+        height: 113px;
+        margin: 2px 15px 0 0;
+    }
+    
+}

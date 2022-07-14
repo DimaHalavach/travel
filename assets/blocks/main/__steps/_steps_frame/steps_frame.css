@@ -1,0 +1,21 @@
+.steps_frame {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 1177px;
+    height: 154px;
+    padding: 0;
+    margin-top: 40px;
+
+}
+
+@media screen and (max-width: 1456px) {
+    .steps_frame {
+        width: 100%;
+        height: auto;
+        margin-top: 18px;
+
+    }
+    
+}

@@ -1,0 +1,15 @@
+.stories_background {
+    display: flex;
+    padding: 0;
+    margin-top: -1270px;
+    background: rgba(255, 255, 255, 0.9);
+    z-index: -1;
+    width: 1440px;
+}
+
+@media screen and (max-width: 1456px) {
+    .stories_background {
+        display: none;
+    }
+    
+}

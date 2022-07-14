@@ -1,0 +1,49 @@
+.destinations_button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    width: 228px;
+    height: 59px;
+    padding: 0;
+    margin: 40px 1145px 0 1147px;
+    border: none;
+
+    opacity: 1;
+    transition: ease opacity 0.5s;
+
+    /* text */
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+
+.destinations_button:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1456px) {
+    .destinations_button {
+        width: 92px;
+        height: 30px;
+        margin: 10px 0 0 0;
+
+        /* text */
+
+        font-family: 'Red Hat Text';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 15px;
+    }
+
+}

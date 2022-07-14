@@ -1,0 +1,26 @@
+.bycicle-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    /* left: calc(50% - 100px/2);
+    top: calc(50% - 100px/2); */
+
+    background: #F2785C;
+    border-radius: 16px;
+    padding: 0;
+
+
+   }
+
+   @media screen and (max-width: 1456px) {
+    .bycicle-logo {
+        width: 70px;
+        height: 70px;
+    
+
+
+    }
+    
+   }

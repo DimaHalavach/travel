@@ -1,0 +1,13 @@
+.media_list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin-left: -2px;
+}
+@media screen and (max-width: 1456px) {
+    .media_list {
+        margin: 3px 67px 2px 0;
+    }
+    
+}

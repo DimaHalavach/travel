@@ -1,0 +1,20 @@
+.media_img_text {
+    display: none;
+}
+
+@media screen and (max-width: 1456px) {
+    .media_img_text {
+        display: flex;
+        position: absolute;
+        width: 60px;
+        height: 26px;
+        font-family: 'Red Hat Text';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 26px;
+        color: #FFFFFF;
+        margin: 48px 285px 0 15px;
+    }
+
+}

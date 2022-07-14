@@ -1,0 +1,14 @@
+.stories_arrow_logo {
+    Width:35px;
+    Height:22.5px;
+    /* background: #fff; */
+
+}
+@media screen and (max-width: 1456px) {
+    .stories_arrow_logo {
+     width: 10px;
+     height: 10px;
+     margin-right: -2px;
+    }
+     
+ }

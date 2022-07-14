@@ -1,0 +1,19 @@
+.preview__planyourtrip_italic-text {
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    padding: 7px 3px 12px 2px;
+    margin-bottom: 174px;
+    height: 24px;
+}
+
+@media screen and (max-width: 1456px) {
+    .preview__planyourtrip_italic-text {
+        display: none;
+    }
+    
+}

@@ -1,0 +1,16 @@
+.burger_menu {
+    display: none;
+}
+
+@media screen and (max-width: 1456px) {
+    .burger_menu {
+        display: flex;
+       
+        width: 165px;
+        height: 250px;
+        background-color: #F2785C;
+        margin-left: -144px;
+
+    }
+    
+}

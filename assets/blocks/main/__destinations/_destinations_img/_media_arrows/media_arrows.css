@@ -1,0 +1,18 @@
+.media_arrows {
+    display: none;
+    width: 344px;
+    height: 15px;
+}
+
+@media screen and (max-width: 1456px) {
+    .media_arrows {
+        display: flex;
+        position: absolute;
+        width: 356px;
+        height: 30px;
+        justify-content: space-between;
+        align-items: center;
+        margin: 131px 0 0 11.27px;
+    }
+    
+}

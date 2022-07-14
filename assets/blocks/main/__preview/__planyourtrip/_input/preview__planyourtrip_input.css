@@ -1,0 +1,49 @@
+.preview__planyourtrip_input {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 892px;
+    height: 95px;
+    left: 120px;
+    top: 416px;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 16px;
+    border: 0;
+    padding: 0;
+    margin-top: -140px;
+}
+
+::placeholder {
+    color: #A0FA70;
+    font-size: 32px;
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    padding-left: 41px;
+
+    color: #F2785C;
+}
+
+@media screen and (max-width: 1456px) {
+    .preview__planyourtrip_input {
+        margin: 142px 15px 61px 15px;
+        width: 360px;
+        height: 48px;
+        background: rgba(255, 255, 255, 0.7);
+        border-radius: 16px;
+        justify-content: space-between;
+    }
+
+    .preview__planyourtrip_input ::placeholder {
+        padding-left: 3px;
+        font-family: 'Aleo';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+
+    }
+
+}

@@ -1,0 +1,17 @@
+.header__nav {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    /* align-content: center; */
+    min-width: 0;
+    min-height: 0;
+    margin: 30px 0 34px 158px;
+    padding: 0;
+}
+
+@media screen and (max-width: 1456px) {
+    .header__nav {
+        display: none;
+    }
+    
+}

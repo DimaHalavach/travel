@@ -1,0 +1,15 @@
+.arrow_logo {
+    Width:35px;
+    Height:22.5px;
+    /* background: #fff; */
+
+}
+
+@media screen and (max-width: 1456px) {
+    .arrow_logo {
+        width: 8.75px;
+        height: 5.63px;
+        
+    }
+    
+}

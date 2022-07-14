@@ -1,0 +1,16 @@
+.burger_menu_overlay {
+    display: none;
+}
+
+@media screen and (max-width: 1456px) {
+    .burger_menu_overlay {
+        display: flex;
+        position: fixed;
+        background-image: url(../../../images/burger_menu_overlay.png);
+        align-items: center;
+        justify-content: center;
+        width: 30px;
+        height: 30px;
+    }
+    
+}
