@@ -23,8 +23,10 @@
 
 .burger_menu._active {
     right: 0%;
+    position: fixed;
+  
+
+    
 }
-.burger_menu._closed {
-    right: -100%;
-}
+
 }
