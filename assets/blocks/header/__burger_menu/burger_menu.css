@@ -4,13 +4,27 @@
 
 @media screen and (max-width: 1456px) {
     .burger_menu {
-        display: flex;
-       
+        display: block;
+        position: absolute;
+        flex-direction: column;
+        right: -100%;
+        background: #F2785C;
+        box-shadow: 0px 4px 3px rgb(13 96 111 / 25%);
+        border-radius: 10px;
+        /* padding: 44px 15px 30px 44px; */
+        z-index: 5;
+        transition: right 0.5s ease 0s;
+        overflow: auto;
+        justify-content: space-between;
         width: 165px;
         height: 250px;
-        background-color: #F2785C;
-        margin-left: -144px;
-
+        /* transform: translate(100%, 0px); */
     }
-    
+
+.burger_menu._active {
+    right: 0%;
+}
+.burger_menu._closed {
+    right: -100%;
+}
 }

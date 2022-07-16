@@ -1,0 +1,11 @@
+.burger_nav_list {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+    margin: 0 15px 0 0;
+    text-align: end;
+    
+
+}
