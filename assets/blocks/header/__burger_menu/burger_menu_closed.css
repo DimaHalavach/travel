@@ -1,0 +1,9 @@
+.burger_menu_closed {
+    display: flex;
+    background-image: url(../../../images/burger_menu_overlay.png);
+    width: 30px;
+    height: 30px;
+    justify-content: start;
+    background-repeat: no-repeat;
+    top: 10px;
+}

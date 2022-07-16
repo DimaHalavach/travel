@@ -1,7 +1,7 @@
 @import url("../blocks/page.css");
 /* @import url("../blocks/main/__preview/preview.css"); */
 @import url("../vendor/fonts/fonts.css");
-/* header */ 
+/* header */
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/__logo/_img/header__logo_img.css");
@@ -14,10 +14,10 @@
 @import url(../blocks/header/__media_menu_outline/media_menu_ouline.css);
 /* burger menu */
 @import url(../blocks/header/__burger_menu/burger_menu.css);
-@import url(../blocks/header/__burger_menu/burger_menu_link.css);
-@import url(../blocks/header/__burger_menu/burger_menu_overlay.css);
-@import url(../blocks/header/__burger_menu/menu_nav_list.css);
+@import url(../blocks/header/__burger_menu/_burger_menu_link.css);
 @import url(../blocks/header/__burger_menu/burger_menu-closed.css);
+@import url(../blocks/header/__burger_menu/burger_nav_list.css);
+@import url(../blocks/header/__burger_menu/burger_menu_closed.css);
 /* rectangle */
 @import url(../blocks/main/__rectangle_gradient/rectangle_gradient.css);
 /* main */
@@ -30,7 +30,7 @@
 @import url("../blocks/main/__preview/__planyourtrip/_input/preview__planyourtrip_input.css");
 @import url("../blocks/main/__preview/__planyourtrip/_input/_input_search/input_search.css");
 @import url("../blocks/main/__preview/__planyourtrip/_input/__input_button/input_button.css");
-@import url("../blocks/main/__preview/__planyourtrip/_input/__input_button/__input_button_text/input_button_text.css");
+/* @import url("../blocks/main/__preview/__planyourtrip/_input/__input_button/__input_button_text/input_button_text.css"); */
 /* steps */
 @import url("../blocks/main/__steps/steps.css");
 @import url("../blocks/main/__steps/_steps_text/steps_text.css");
@@ -106,5 +106,11 @@
 @import url("../blocks/footer/__social_media/_media_list/_twitter/_twitter_logo/twitter_logo.css");
 
 html {
-    scroll-behavior: smooth;
-  }
+  scroll-behavior: smooth;
+}
+
+@import url("../blocks/main/__preview/__planyourtrip/_input/__input_button/__input_button_text/input_button_text.css");
+@import url(../blocks/header/__burger_menu/burger_menu.css);
+@import url(../blocks/header/__burger_menu/burger_menu_link.css);
+@import url(../blocks/header/__burger_menu/burger_menu_overlay.css);
+@import url(../blocks/header/__burger_menu/menu_nav_list.css);
