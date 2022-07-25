@@ -12,7 +12,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .frame_bycicle {
         width: 94px;
         height: 111px;

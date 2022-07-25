@@ -16,7 +16,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .calendar_text {
         font-family: 'Aleo';
         font-style: normal;

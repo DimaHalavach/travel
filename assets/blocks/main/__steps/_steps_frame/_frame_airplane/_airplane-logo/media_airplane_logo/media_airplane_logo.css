@@ -6,7 +6,7 @@
     background-size: 60px 45px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .media_airplane_logo {
         width: 40px;
         height: 30px;

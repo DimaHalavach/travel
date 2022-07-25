@@ -15,7 +15,7 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .footer_text {
         display: none;
     }

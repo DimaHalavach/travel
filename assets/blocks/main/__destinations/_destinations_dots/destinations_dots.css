@@ -7,7 +7,7 @@
     margin: 24px 1219px 0 1221px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .destinations_dots {
         position: absolute;
         width: 36px;

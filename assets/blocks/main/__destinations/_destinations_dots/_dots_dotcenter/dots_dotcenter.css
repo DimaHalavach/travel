@@ -7,7 +7,7 @@
     border-radius: 50%;
     background: #F2785C;
 }
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .dots_dotcenter {
         width: 8px;
         height: 8px;

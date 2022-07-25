@@ -8,7 +8,7 @@
     margin: 80px 122px 41px 119px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .stories {
         max-width: 390px;
         min-width: 320px;

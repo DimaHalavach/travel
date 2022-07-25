@@ -8,7 +8,7 @@
     z-index: 1;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .header {
         max-width: 390px;
         min-width: 320px;

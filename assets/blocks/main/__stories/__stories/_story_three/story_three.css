@@ -8,7 +8,7 @@
     margin-top: 30px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .story_three {
         max-width: 100%;
         height: auto;

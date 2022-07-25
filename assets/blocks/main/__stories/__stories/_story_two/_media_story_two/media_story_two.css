@@ -2,7 +2,7 @@
     display: none;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .media_img_story_two {
         display: flex;
         position: absolute;

@@ -7,7 +7,7 @@
     width: 1440px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .stories_background {
         display: none;
     }

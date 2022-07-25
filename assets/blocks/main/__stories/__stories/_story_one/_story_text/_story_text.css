@@ -12,7 +12,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .story_text {
         display: -webkit-box;
         width: 195px;

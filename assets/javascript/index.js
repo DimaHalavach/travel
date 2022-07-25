@@ -17,3 +17,25 @@ const burger_menu_closed = document.querySelector('.burger_menu');
         
     }
 }
+
+let offset = 0;
+const sliderLine = document.querySelector('.destinations_img');
+const spain = document.querySelector('.img_spain');
+document.querySelector('.img_usa').addEventListener('click', function(){
+    offset = offset + 799.99;
+    if (offset > 1440) {
+        offset = 0;
+    }
+    sliderLine.style.left = -offset + 'px';
+    spain.style.right = 800 + 'px';
+ 
+})
+
+document.querySelector('.img_spain').addEventListener('click', function(){
+    offset = offset + 799.99;
+    if (offset > 1440) {
+        offset = 0;
+    }
+    sliderLine.style.left = offset + 'px';
+ 
+})

@@ -2,7 +2,7 @@
     display: none;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .arrow_left {
         display: flex;
         width: 30px;

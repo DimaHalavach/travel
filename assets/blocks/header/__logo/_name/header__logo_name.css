@@ -9,7 +9,7 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .header__logo_name {
         display: none;
     }

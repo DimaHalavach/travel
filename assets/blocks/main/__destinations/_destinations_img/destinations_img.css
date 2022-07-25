@@ -1,17 +1,16 @@
 .destinations_img {
     display: flex;
+    position: relative;
     justify-content: space-between;
     width: 2520px;
     height: 800px;
-    /* right: -540px;
-    top: 1288px; */
-    /* width: 100%; */
+
     padding: 0;
     margin-top: 46px;
 
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .destinations_img {
         display: none;
         width: 100%;
