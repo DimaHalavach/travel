@@ -18,7 +18,7 @@
 
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .stories_text {
         margin: 0;
         font-family: 'Red Hat Text';

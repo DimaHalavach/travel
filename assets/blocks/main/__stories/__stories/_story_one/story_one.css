@@ -8,7 +8,7 @@
     margin-top: 80px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .story_one {
         max-width: 100%;
         height: auto;

@@ -6,7 +6,7 @@
     background-size: 52px 52px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .media_calendare_logo {
         width: 35px;
         height: 35px;

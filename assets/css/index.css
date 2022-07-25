@@ -58,6 +58,7 @@
 @import url("../blocks/main/__destinations/_destinations_img/destinations_img.css");
 
 @import url("../blocks/main/__destinations/_destinations_img/_img_spain/img_spain.css");
+@import url(../blocks/main/__destinations/_destinations_img/_img_spain/_spain_text/spain_text.css);
 @import url("../blocks/main/__destinations/_destinations_img/_img_japan/img_japan.css");
 @import url("../blocks/main/__destinations/_destinations_img/_img_usa/img_usa.css");
 @import url("../blocks/main/__destinations/_destinations_img/_img_japan/_japan_text/japan_text.css");

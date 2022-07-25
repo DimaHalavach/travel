@@ -10,7 +10,7 @@
 
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .preview__planyourtrip_h1 {
         display: none;
     }

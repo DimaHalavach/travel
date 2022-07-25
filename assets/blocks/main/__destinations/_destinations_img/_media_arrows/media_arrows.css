@@ -4,7 +4,7 @@
     height: 15px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .media_arrows {
         display: flex;
         position: absolute;

@@ -13,7 +13,7 @@
     /* border: 1px solid red; */
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .frame_calendar {
         align-items: center;
         width: 111px;

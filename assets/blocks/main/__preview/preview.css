@@ -13,7 +13,7 @@
 
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .preview {
         max-width: 390px;
         min-width: 320px;

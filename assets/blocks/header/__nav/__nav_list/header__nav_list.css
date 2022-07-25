@@ -15,7 +15,7 @@
 
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .header__nav_list {
         display: none;
     }

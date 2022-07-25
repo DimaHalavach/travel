@@ -27,7 +27,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .header__button-login {
       display: none;
 }

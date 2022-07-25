@@ -8,7 +8,7 @@
     background: rgba(242, 120, 92, 0.5);
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .dots_dotright {
         width: 8px;
         height: 8px;

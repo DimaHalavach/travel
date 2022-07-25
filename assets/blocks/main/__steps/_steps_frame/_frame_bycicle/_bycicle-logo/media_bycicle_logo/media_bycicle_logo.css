@@ -6,7 +6,7 @@
     background-size: 50px 45px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .media_bycicle_logo {
         width: 35px;
         height: 31.5px;

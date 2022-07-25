@@ -7,7 +7,7 @@
     margin: 79px 132px 0 131px;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .steps {
         max-width: 390px;
         min-width: 320px;

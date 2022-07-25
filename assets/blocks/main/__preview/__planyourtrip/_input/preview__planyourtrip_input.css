@@ -26,7 +26,7 @@
     color: #F2785C;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .preview__planyourtrip_input {
         margin: 142px 15px 61px 15px;
         width: 360px;

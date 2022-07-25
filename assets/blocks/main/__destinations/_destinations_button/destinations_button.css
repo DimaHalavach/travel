@@ -31,7 +31,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 1456px) {
+@media screen and (max-width: 500px) {
     .destinations_button {
         width: 92px;
         height: 30px;
