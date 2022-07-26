@@ -8,4 +8,6 @@
     margin: 0;
 
 }
-
+.img_spain:hover {
+    cursor: pointer;
+}
